@@ -3,7 +3,7 @@
 """
 Created on Wed Aug 28 18:09:41 2024
 
-@author: phil
+@author: phil gith
 """
 filtres=['B','V','R']
 dossier_root='/home/phil/POLA/RAW_DATA/'
